@@ -18,7 +18,7 @@ This notebook contains solutions to 50 beginner-level Python exercises. Each exe
   - Value reassignment  
   - Value verification using print statements  
 
-- **Exercises 11–20**:  
+ **Exercises 11–20**:  
   - Assigning integers, floats, booleans, and complex numbers  
   - Swapping variables  
   - Reassigning variable types  
@@ -26,8 +26,16 @@ This notebook contains solutions to 50 beginner-level Python exercises. Each exe
   - Converting string to integer  
   - Value verification using print statements  
 
+   **Exercises 21–30**:  
+  - Division, modulo, and power operations  
+  - Boolean and special character values  
+  - Calculating rectangle area  
+  - Using large integers  
+  - Value verification using print statements  
+
+
 ## 📌 Next Steps
 
-- Continue with Exercises 21–30  
+- Continue with Exercises 31–40  
 - Gradually complete all 50 exercises  
 - Update the README after each push to track progress
