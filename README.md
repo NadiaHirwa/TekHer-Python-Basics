@@ -5,7 +5,7 @@ This notebook contains solutions to 50 beginner-level Python exercises. Each exe
 - A clear task description  
 - Python code to solve the task  
 - A print statement to verify the result  
-- Step-by-step explanations for learning purposes 
+ 
 
 
 ## ✅ Completed Exercises
