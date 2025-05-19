@@ -33,9 +33,10 @@ This notebook contains solutions to 50 beginner-level Python exercises. Each exe
   - Using large integers  
   - Value verification using print statements  
 
+  - **Exercises 31–40**:  
+  - Using lists, tuples, and dictionaries  
+  - Floating-point arithmetic  
+  - Boolean expressions and reassignment  
+  - Multi-line strings and absolute value  
+  - Printing meaningful output using variables
 
-## 📌 Next Steps
-
-- Continue with Exercises 31–40  
-- Gradually complete all 50 exercises  
-- Update the README after each push to track progress
